@@ -1,6 +1,7 @@
 # AUFS_ZSL
 The source code of our IJCAI2018 paper "Visual Data Synthesis via GAN for Zero-shot Video Classification".
 
+Dataset| aPY | AwA2 | CUB | SUN
 Methods|ZSL| U    | S 	 | HM   |ZSL    | U     | S     | HM    |ZSL   | U     | S 	   | HM   |ZSL	 | U 	 | S	| HM
 :-:    |:-:| :-:  | :-:  | :-:  | :-:   | :-:   | :-:   | :-:   | :-:  | :-:   | :-:   | :-:  | :-:  | :-:   | :-:  | :-:
 SSE  |34.0 | 0.2  | 78.9 | 0.4  | 61.0	| 8.1 	| 82.6 	| 14.8	|43.9  | 8.5   | 46.9  | 14.4 |	51.5 | 2.1 	 | 36.4 | 4.0 |
