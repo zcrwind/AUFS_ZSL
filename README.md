@@ -47,4 +47,23 @@ The source code of our IJCAI2018 paper "Visual Data Synthesis via GAN for Zero-s
 		<td>36.4</td>
 		<td>4.0</td>
 	<tr>
+	<tr>
+		<td>LATEM</td>
+		<td>35.2</td>
+		<td>0.1</td>
+		<td>73.0</td>
+		<td>0.2</td>
+		<td>55.8</td>
+		<td>11.5</td>
+		<td>77.3</td>
+		<td>20.0</td>
+		<td>49.3</td>
+		<td>15.2</td>
+		<td>57.3</td>
+		<td>24.0</td>
+		<td>55.3</td>
+		<td>14.7</td>
+		<td>28.8</td>
+		<td>19.5</td>
+	<tr>
 </table>
