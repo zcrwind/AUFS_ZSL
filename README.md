@@ -1,5 +1,5 @@
 # AUFS_ZSL
-The source code of our IJCAI2018 paper "Visual Data Synthesis via GAN for Zero-shot Video Classification".
+The source code of our IJCAI2018 paper ["Visual Data Synthesis via GAN for Zero-shot Video Classification"](https://www.ijcai.org/Proceedings/2018/157).
 
 <table>
 	<tr>
