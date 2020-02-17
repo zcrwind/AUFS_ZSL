@@ -1,4 +1,4 @@
-# AUFS_ZSL
+# :seedling: AUFS_ZSL
 The source code of our IJCAI 2018 conference paper ["Visual Data Synthesis via GAN for Zero-shot Video Classification"](https://www.ijcai.org/Proceedings/2018/157), where "AUFS" is short for "Adversarial Unseen Feature Synthesis".
 
 ## Introduction
@@ -60,5 +60,3 @@ If you make use of this code or the adversarial unseen feature synthesis algorit
 }
 ```
 
-
-flag
