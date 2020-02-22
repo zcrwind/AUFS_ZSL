@@ -23,6 +23,14 @@ It is noted that though our original paper aims to tackle zero-shot learning pro
 - **AwA2** Animals with Attributes2 (AWA2) is introduced by [9], which contains 37, 322 images for the 50 classes of AWA1 dataset from public web sources, i.e. Flickr, Wikipedia, etc., making sure that all images of AWA2 have free-use and redistribution licenses and they do not overlap with images of the original Animal with Attributes dataset.
 - **SUN** SUN is a fine-grained and medium-scale dataset with respect to both number of images and number of classes, i.e. SUN contains 14340 images coming from 717 types of scenes annotated with 102 attributes.
 
+## How to run
+Download the datasets from [here](http://www.robots.ox.ac.uk/~lz/DEM_cvpr2017/data.zip) and put them into the parent directory of `AUFS_ZSL/`, then
+```
+$ cd AUFS_ZSL
+$ sh main.sh
+```
+**NOTE**: modify hyperparameters in config files as needed, where the suitable learning rate is crucial.
+
 ## Experimental Results
 |Dataset|aPY|CUB|AwA1|AwA2|SUN|
 |--|--|--|--|--|--|
